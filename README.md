@@ -1,6 +1,6 @@
-# Data-Questers-CANDEV2022
+# CANDEV2022 Data Challenge
 
-# Challenge
+# Description
 Shared Services Canada (SSC) manages and supports IT infrastructure for 43 departments. One of our key metrics includes a customer satisfaction survey which identifies how departments feel SSC is providing service. Another key metric is the length of time it takes SSC to resolve incidents.
 
 SSC’s main Information Technology Service Management (ITSM) tool currently is a tool called Enterprise Control Desk. This tool is used to track the life of service requests, incidents, problems, changes and configuration items. One area of concern is how long it takes for an incident to go from being opened to closed.
